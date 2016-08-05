@@ -1,0 +1,29 @@
+_repo: Septimius-Felton-or-the-Elixir-of-Life_7372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: One of Nathaniel Hawthorne's later works, Septimius Felton is a beguiling
+  and thought-provoking tale of murder most foul. One of a series of the author's
+  works that grapple with themes of immortality, Septimius Felton was written shortly
+  before Hawthorne himself succumbed to a mysterious illness, a fact that lends a
+  dimension of profound poignancy to the story.
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- GITenberg
+title: Septimius Felton, or, the Elixir of Life
+url: http://www.gutenberg.org/ebooks/7372
